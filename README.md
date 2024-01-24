@@ -1,4 +1,4 @@
 # ruling-crm
 This is my first repository.
 <br>
-Author -  Nayan Patani
+Author -  Nayan Developer
